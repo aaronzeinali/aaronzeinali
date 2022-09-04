@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aaron
 - 👀 I’m interested in Web development and network programming
 - 🌱 I’m currently learning CCNA
-- 💞️ I’m looking to collaborate on every project in Python, php, front-end and cyber security
-- 📫 You can reach me on my personal email: aron.zeinali@gmail.com
+- 💞️ I’m looking to collaborate on every project in Python, PHP and Cyber security
+- 📫 You can reach me on my personal email: info@aaronzeinali.com and my personal website: <a href="https://aaronzeinali.com">www.aaronzeinali.com</a>
 
 <!---
 aaronzeinali/aaronzeinali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
