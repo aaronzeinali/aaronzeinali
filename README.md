@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aaron
-- 👀 I’m interested in Web development and network programming
+- 👀 I’m interested in knoledge of Linux and Web services
 - 🌱 I’m currently learning CCNA
-- 💞️ I’m looking to collaborate on every project in Python, PHP and Cyber security
+- 💞️ I’m looking to collaborate with any talented person or interested ones
 - 📫 You can reach me on my personal email: info@aaronzeinali.com and my personal website: <a href="https://aaronzeinali.com">www.aaronzeinali.com</a>
 
 <!---
