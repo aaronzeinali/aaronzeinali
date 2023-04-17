@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaron
-- 👀 I’m interested in knoledge of Linux and Web services
+- 👀 I’m interested in knowledge of Linux and Web services
 - 🌱 I’m currently learning CCNA
 - 💞️ I’m looking to collaborate with any talented person or interested ones
 - 📫 You can reach me on my personal email: info@aaronzeinali.com and my personal website: <a href="https://aaronzeinali.com">www.aaronzeinali.com</a>
