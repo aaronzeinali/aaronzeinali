@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Aaron
+- 👋 Hey, This is Aaron
 - 👀 I’m interested in knowledge of Linux and Web services
-- 🌱 I’m currently working on linux security
+- 🌱 I’m currently working on Deep Learning 
 - 💞️ I’m looking to collaborate with any talented person or interested ones
-- 📫 You can reach me on my personal email: info@aaronzeinali.com and my personal website: <a href="https://aaronzeinali.com">www.aaronzeinali.com</a>
-- <br> aron.zeinali@gmail.com
+- 📫 You can reach me on my personal email: aron.zeinali@gmail.com and telegram <a href="https://t.me/aarownn"> @aarownn </a>
 
 <!---
 aaronzeinali/aaronzeinali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
