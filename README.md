@@ -1,7 +1,6 @@
 - 👋 Hey, This is Aaron
-- 👀 I’m interested in everything related to computer.
-- 🌱 I’m currently working on Making love with my gf!
-- 💞️ I’m looking to collaborate with any talented person or interested ones to make more loves together!
+- 🌱 I’m currently working on Making love with my girl!
+- 💞️ I’m looking to innovate on dl algorithms
 - 📫 You can reach me on the Telegram <a href="https://t.me/aarownn"> @aarownn </a>
 
 <!---
