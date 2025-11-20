@@ -1,6 +1,6 @@
-- 👋 Hey, This is Aaron
+- 👋 Hey, This is Aaron Zeinali
 - 🌱 I’m currently working on Making love with my girl!
-- 💞️ I’m looking to innovate on dl algorithms
+- 💞️ I’m looking to innovate on DL & ML algorithms
 - 📫 You can reach me on the Telegram <a href="https://t.me/aarownn"> @aarownn </a>
 
 <!---
